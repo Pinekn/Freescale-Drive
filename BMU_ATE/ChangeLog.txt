@@ -1,0 +1,11 @@
+
+
+
+2016-3-24
+	1).添加写入BMU硬件版本号功能；
+	2).添加PL455 checksum 检验 ；
+	3).check cell volt for calibrate source
+
+	自检的时候，要自检单芯电压
+
+	电子负载：可以设定电压的输入下限值；
